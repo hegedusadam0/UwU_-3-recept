@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+.navbar-nav > li {
+    padding-left:30px;
+    padding-right:30px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.navbar-nav > li > a {
+    padding-left:30px;
+    padding-right:30px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+.navbar {
+    border-bottom: 1px black solid;
+}
+
+.navbar:hover{
+    color: black;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    display: flex;
+    height: 300px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    
+}
+
+img#hus{
+    border: 1px solid black;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: auto;  
+    margin-left: 37%;
+}
+.container {
+    
+    padding-top: 10px;
+}
+
+h2{
+    padding-top: 30px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+h3{
+
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+h4{
+    padding-bottom: 20px;
+    padding-top: 30px;
+    color: rgb(206, 206, 206) !important;
+}
+
+li{
+    padding-bottom: 40px;
+    list-style-type: none;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 30px;
+}
+
+li:hover {
+    background-color: rgb(245, 245, 245);
+    font-size: 32px;
+  }

@@ -10,6 +10,15 @@
     font-style: normal;
 }
 
+.navbar-nav > li > a {
+    padding-left:30px;
+    padding-right:30px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
 
 .navbar {
     border-bottom: 1px black solid;
