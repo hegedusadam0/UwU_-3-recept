@@ -89,3 +89,8 @@ li{
 #etel li:hover {
     background-color: rgb(245, 245, 245);
 }
+
+/* Megadja a csillagok színét. */
+.checked {
+    color: orange;
+}
