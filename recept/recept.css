@@ -85,6 +85,7 @@ li{
     font-size: 30px;
 }
 
-li:hover {
+/* Szóval, ez nem volt megcsinálva normálba, mivel ezt ráhelyezte a navbarra is. Ezt később orvosoljuk máshogy. */
+#etel li:hover {
     background-color: rgb(245, 245, 245);
-  }
+}
