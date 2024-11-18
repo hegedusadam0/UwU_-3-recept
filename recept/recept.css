@@ -91,6 +91,6 @@ li{
 }
 
 /* Megadja a csillagok színét. */
-.checked {
+.fa-star {
     color: orange;
 }
